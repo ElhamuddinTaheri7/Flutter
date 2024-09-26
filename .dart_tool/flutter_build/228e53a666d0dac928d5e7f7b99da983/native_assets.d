@@ -1,0 +1,1 @@
+ C:\\Users\\ELHAM\\Desktop\\MyDartProjects\\flutter_apps\\two_card\\.dart_tool\\flutter_build\\228e53a666d0dac928d5e7f7b99da983\\native_assets.yaml: 
